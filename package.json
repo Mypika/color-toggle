@@ -1,0 +1,21 @@
+{
+  "name": "color-toggle",
+  "version": "1.0.0",
+  "description": "hsv<--->hsl<--->rgb<--->hex色值转换",
+  "main": "index.js",
+  "keyword":[
+    "color",
+    "toggle",
+    "color-toggle",
+    "rgb",
+    "hsl",
+    "hsv"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Mypika"
+  },
+  "license": "ISC"
+}
